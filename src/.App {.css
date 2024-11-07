@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .product-details {
+    margin: 20px 0;
+  }
+  
+  .quantity-selector {
+    margin: 10px 0;
+  }
+  
+  .total-price {
+    margin-top: 20px;
+    font-size: 1.2em;
+  }
+  
+  input[type="number"] {
+    padding: 5px;
+    margin: 10px;
+    width: 60px;
+  }
+  
